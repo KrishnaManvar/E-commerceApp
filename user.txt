@@ -1,0 +1,5 @@
+Tom,12345,500,Washington
+Harry,98750,700,Boston
+Daniel,56784,200,Florida
+Timothy,23789,600,San Fransisco
+Robert,98712,100,Las Vegas
