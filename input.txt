@@ -1,0 +1,8 @@
+Bazinga,499,TeeShirt,20
+Friends,567,WallArt,46
+Friends,500,TeeShirt,40
+Dr. Who,398,Bag,30
+Sherlock,487,FanArt,38
+Harry Potter,3000,Books,79
+Elementary,398,Phone case,30
+Batman,599,TeeShirt,90
